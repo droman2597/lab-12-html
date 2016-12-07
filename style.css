@@ -1,0 +1,33 @@
+p {
+    color: red;
+    font-size: 30px;
+    background-color: pink;
+}
+
+h1 {
+	color: black;
+	background-color: yellow;
+}
+
+h2 {
+	color: white;
+	background-color: blue;
+}
+
+h3 {
+	color: white;
+	background-color: black;
+}
+
+h4 {
+	color: white;
+	background-color: brown;
+}
+
+
+
+
+	td{
+		border: 1px solid #999;
+		padding: 0.1em 1em;
+	}
